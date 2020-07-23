@@ -1,7 +1,5 @@
 package backend;
 
-import java.util.Iterator;
-
 public enum DesignPatterns {
 
     ADAPTER("Adapter",Categories.ENTKOPPLUNGSMUSTER),

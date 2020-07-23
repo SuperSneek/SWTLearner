@@ -1,6 +1,5 @@
 package backend;
 
-import com.sun.tools.javac.Main;
 import frontend.MainInterface;
 import frontend.questions.PickCategory;
 import frontend.questions.Task;
@@ -10,7 +9,6 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
-import java.util.regex.Pattern;
 
 public class QuestionManager {
 

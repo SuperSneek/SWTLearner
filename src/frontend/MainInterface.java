@@ -2,7 +2,6 @@ package frontend;
 
 import backend.DesignPatterns;
 import backend.QuestionManager;
-import frontend.questions.PickCategory;
 import frontend.questions.Task;
 
 import javax.swing.*;
